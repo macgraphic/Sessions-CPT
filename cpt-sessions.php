@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: Sessions CPT
-Plugin URI: .
-Description: Create the Sessions CPT.
-Version: 0.0.4
+Plugin URI: https://github.com/macgraphic/Sessions-CPT
+Description: Create the Sessions CPT, and add it to the Rest API.
+Version: 1.1.6
 Author: Mark Smallman
 Author URI: https://macgraphic.co.uk
 License: GPLv2
